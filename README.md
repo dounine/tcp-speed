@@ -13,6 +13,6 @@ reboot
 ```
 执行`ServerSpeeder`一键安装脚本，此脚本使用的是`91yun`的
 ```
-bash shadowsocks-go.sh
+bash serverspeeder-all.sh
 ```
 根据提示进行安装即可，默认会开机启动
